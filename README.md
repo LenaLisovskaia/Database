@@ -1,1 +1,2 @@
 - [Работа с базами данных](https://docs.google.com/spreadsheets/d/1QtUTD9mHWs43L0_3M6i5VcjgIyR9fl2-qUzWmZ3cfGQ/edit?usp=sharing)
+- [Join in SQL](https://docs.google.com/spreadsheets/d/1xYtBuip-BkP39lnkjAF51xF9cHHe1Dggg0vryUF_LX0/edit?usp=sharing)
